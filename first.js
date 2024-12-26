@@ -1,20 +1,4 @@
-  // Define the password
-        const correctPassword = "kajalverma07"; // Change this to your desired password
 
-        // Function to check password
-        function checkPassword() {
-            const enteredPassword = prompt("Please enter the password:");
-
-            if (enteredPassword === correctPassword) {
-                document.getElementById("content").style.display = "block"; // Show the content if password is correct
-            } else {
-                alert("Incorrect password! You will be redirected.");
-                window.location.href = "https://adityasuryawanshi7.github.io/enotes/"; // Redirect to another page on incorrect password
-            }
-        }
-
-        // Call the function on page load
-        window.onload = checkPassword;
 
 
 let currentUser = null;
