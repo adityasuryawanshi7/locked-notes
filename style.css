@@ -404,13 +404,3 @@ button:hover {
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
     transition: background-color 0.3s ease;
 }
-
-
-#sb{
-     color:white;
-    background: black;
-        position: fixed;
-        top: 23px; /* Adjust as needed */
-        right: 23px; /* Adjust as needed */
-    
-}

@@ -1,5 +1,5 @@
   // Define the password
-        const correctPassword = "kajalverma07"; // Change this to your desired password
+        const correctPassword = "kv07"; // Change this to your desired password
 
         // Function to check password
         function checkPassword() {
